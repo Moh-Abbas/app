@@ -1,4 +1,4 @@
-Hello In Kodi Build
-this my text in tv
-databand 
+2
+|||
+Hello in kodi 
 شكرا
