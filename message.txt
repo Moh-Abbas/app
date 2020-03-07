@@ -2,6 +2,6 @@
 |||
 Hello From This Databand Build
 [B][COLOR white]I can use BOLD WHITE FONTS[/COLOR][/B]
+**### hello**
 
-
-This is how you use the XBMC Hub Notifier by www.aerialview.tv
+This is how1 you use the XBMC Hub Notifier by www.aerialview.tv
